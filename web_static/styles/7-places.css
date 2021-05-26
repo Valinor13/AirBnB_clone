@@ -1,0 +1,32 @@
+.places-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.places article h2 {
+    margin: 0px;
+}
+
+.places h1 {
+    align-items: flex-start;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.places article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+
+.places article h2 {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 15px;
+}
